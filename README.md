@@ -13,7 +13,6 @@
 * VisualBasic2019
 * オリジナルのソケットライブラリ
  
- 
 # Installation
  
 サンプルプログラムをダウンロード後、展開してください。
@@ -31,7 +30,6 @@ http://linapp0.sr.kagawa-nct.ac.jp/~miyatake/experiment.html
  
 * 宮武明義
 * 香川高等専門学校　情報工学科
-*
  
 # License
  
